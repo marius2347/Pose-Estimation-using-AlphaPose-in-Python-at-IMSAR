@@ -5,6 +5,7 @@
     <li>Coco Dataset: val 2017</li>
     <li>AlphaPose using gluoncv</li>
     <li> detector & posenet</li>
+    <li>Live camera feed human decttection in boxes</li>
 </ul>
 
 <h2>Acknowledgments</h2>
