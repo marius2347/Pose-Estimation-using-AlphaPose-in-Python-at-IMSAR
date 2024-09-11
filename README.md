@@ -1,4 +1,4 @@
-<h1>AlphaPose Estimation COCO Dataset - IMSAR PROJECT</h1>
+<h1>Pose Estimation using AlphaPose in Python at IMSAR</h1>
 <br>
 <h2>Features</h2>
 <ul>
