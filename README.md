@@ -8,11 +8,6 @@
     <li>Live camera feed human decttection in boxes</li>
 </ul>
 
-<h2>Acknowledgments</h2>
-
-<b> Python3: http://bit.ly/python3-certifications </b>
-<br>
-<b> Machine Learning: https://bit.ly/machine-learning-certification <b>
 <br>
 
 
